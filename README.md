@@ -36,8 +36,9 @@ Explore:
 - Scipy (for t-tests)
 
 ## 🚀 How to Run
-1. Clone this repo
-2. Install required libraries: `pip install pandas matplotlib seaborn scipy`
-3. Edit the dataset location.
-4. Run the notebook: `Trader_Behavior_Insights.ipynb`
+1. Github: https://github.com/kp-08/trader-sentiment-analysis.git 
+2. Clone this repo
+3. Install required libraries: `pip install pandas matplotlib seaborn scipy`
+4. Edit the dataset location.
+5. Run the notebook: `Trader_Behavior_Insights.ipynb`
 
